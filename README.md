@@ -91,7 +91,7 @@ The notebook can be run on
  - To run any specific segment of code, select that code cell and press
    Shift+Enter or Ctrl+Shift+Enter
 
->**Caution - The code should be executed in the given order for best results without encountering any errors.**
+>
 
 ## Citation
 
